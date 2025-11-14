@@ -24,4 +24,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: clevert/openpi:latest
+          tags: ljy0123/pi:latest
